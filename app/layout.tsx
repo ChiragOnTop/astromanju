@@ -30,6 +30,9 @@ export const metadata: Metadata = {
     title: "Astro Manju | Astrologer Manju Gambhir",
     description: "Expert astrology, numerology & tarot by Manju Gambhir",
   },
+  verification: {
+    google: "pgLSokV7uKA1OkcErtxrbB60jHrEEN1bMATyWZSRz84",
+  },
   robots: {
     index: true,
     follow: true,
